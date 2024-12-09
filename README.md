@@ -1,6 +1,5 @@
 ###  Hi Everynyan !
 
-- 🔭 I’m currently working on a video game on UE5 !
 - 🌱 I’m currently learning C++, PHP...
 - 👯 I’m looking to collaborate on Projets
 - 🤔 I’m looking for help with C++ because it's a little difficulte without documentation
